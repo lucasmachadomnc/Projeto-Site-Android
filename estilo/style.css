@@ -28,6 +28,13 @@
     --fonte-android: 'idroid'
 }
 
+h2 {
+    font-family: 'Bebas Neue';
+    color: #1a5c37;
+    font-size: 2em;
+    background-color: #83e1ad59
+}
+
 header {
     
     background-color: var(--cor4);
